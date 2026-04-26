@@ -10,7 +10,7 @@ Crear segmentos de clientes estratégicos
 Identificar oportunidades de mejora en planes y estrategias de retención
 Sugerir mejoras en la oferta actual de servicios
 📊 Datasets Utilizados
-El análisis trabajó con tres datasets principales con información registrada hasta 2024:
+- El análisis trabajó con tres datasets principales con información registrada hasta 2024:
 
 1. plans.csv - Información de planes actuales
 
